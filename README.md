@@ -1,3 +1,3 @@
-# Arrays estudao
+# Arrays estudo
 
-%* estudos abordados em curso (JAVA)
+estudos abordados em curso (JAVA)
